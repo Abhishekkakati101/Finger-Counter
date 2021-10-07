@@ -14,3 +14,9 @@ MediaPipe is a framework for building multimodal (eg. video, audio, any time ser
 
 # Live Demo
 
+![](https://github.com/Abhishekkakati101/Finger-Counter/blob/main/Demo/FingerCounterDemo.gif)
+
+# Installation:
+-  `Mediapipe`: pip install mediapipe
+- `OpenCv`: pip install opencv-python
+- `Time`: pip install python-time
